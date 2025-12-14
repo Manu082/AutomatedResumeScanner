@@ -1,0 +1,22 @@
+{
+  "AI/ML Engineer": [
+    "python", "tensorflow", "pytorch", "scikit-learn", "machine learning", 
+    "deep learning", "nlp", "computer vision", "pandas", "numpy", "ai"
+  ],
+  "Frontend Web Developer": [
+    "html", "css", "javascript", "react", "angular", "vue", "typescript",
+    "ui", "ux", "figma", "tailwind"
+  ],
+  "Backend Web Developer": [
+    "python", "java", "node.js", "django", "flask", "fastapi", "sql",
+    "mysql", "postgresql", "mongodb", "rest", "api", "docker", "kubernetes"
+  ],
+  "Data Analyst": [
+    "sql", "python", "r", "pandas", "numpy", "excel", "tableau", 
+    "power bi", "statistics", "data visualization", "data analysis"
+  ],
+  "DevOps Engineer": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "ci/cd", "jenkins",
+    "ansible", "terraform", "git", "linux", "bash", "python"
+  ]
+}
